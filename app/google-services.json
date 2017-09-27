@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "204382375189",
+    "firebase_url": "https://color-chat.firebaseio.com",
+    "project_id": "color-chat",
+    "storage_bucket": "color-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204382375189:android:7f80374510c5afd7",
+        "android_client_info": {
+          "package_name": "aldominium.com.colorchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204382375189-8vhp66i3ark3j2ufvjkl2pn13p0vfapc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5h7C1jWyDNV9TH75l-lm5pmfMjrSFqo4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
